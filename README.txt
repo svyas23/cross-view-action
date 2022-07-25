@@ -5,5 +5,4 @@
 
 Trained models available on request.
 
-![image](overview5_jpgs.jpg "Network")
 
